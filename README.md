@@ -1,4 +1,4 @@
-<h3>This script is aimed at splitting stratified images based on K-Fold<h3>
+<h3>This script is aimed at doing stratified split to images based on K-Fold<h3>
 
 <ol>
   <li><pre>First, Preparing all your images into one folder.
