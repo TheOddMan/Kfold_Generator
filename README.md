@@ -144,6 +144,12 @@ KFoldImgFolder
   <pre>StratifiedSplitCsv function will print "Training Data Len:" and Test Data Len:".
   "Test Data Len" would decrease continously.
   The reason might be rounding when doing stratified split.
-  I use numpy.array_split to split data.</pre>
+  I use numpy.array_split to split data.
+  <br>
+  My English isn’t very good.
+  So maybe it's hard to understand how to use this API.
+  If you have any question, please let me know.
+  </pre>
+
 
 
